@@ -4,3 +4,5 @@
 {\*\expandedcolortbl;;}
 \margl1440\margr1440\vieww11520\viewh8400\viewkind0
 }
+
+This repo contains all of my code and outputs for my Numerical Analysis and Scientific Computing class (APPM 4600). I have two main folders titled Homework and Labs. 
